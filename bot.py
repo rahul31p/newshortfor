@@ -39,7 +39,7 @@ async def start(bot, message):
 async def start(bot, message):
     await message.reply(
         f"**Hey, {message.chat.first_name}!**\n\n"
-        "**please contact me on @Akmnph")
+        "**please contact me on @bot")
     
 @bot.on_message(filters.text & filters.private)
 async def pdisk_uploader(bot, message):
