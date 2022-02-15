@@ -1,6 +1,6 @@
 # newshortfor-bot
 
-Make short link by using [pdiskshortforyou](https://pdiskshortforyou.tech) API key
+Make short link by using [earn4clicks](https://earn4clicks.in) API key
 ### Join Our Channel on telegram 
 [@akmnph](t.me/hornyworld22) for bot
 ### Installation
