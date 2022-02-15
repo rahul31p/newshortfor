@@ -27,19 +27,19 @@ bot = Client('Droplink bot',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "I'm pdiskshortforyou bot. Just send me link and get short link made by @Akmnph")
+        "I'm earn4clicks bot. Just send me link and get short link made by @earn4clicks_in")
 
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
     await message.reply(
         f"**Hello, {message.chat.first_name}!**\n\n"
-        "**If you send post which had Pdisk Links, texts & images... Than I'll convert & replace all doodstream links with your url shotner link contact @Akmnph**")
+        "**If you send post which had Pdisk Links, texts & images... Than I'll convert & replace all doodstream links with your url shotner link contact @earn4clicks_in**")
 
 @bot.on_message(filters.command('support') & filters.private)
 async def start(bot, message):
     await message.reply(
         f"**Hey, {message.chat.first_name}!**\n\n"
-        "**please contact me on @Akmnph")
+        "**please contact me on @earn4clicks_in")
     
 @bot.on_message(filters.text & filters.private)
 async def pdisk_uploader(bot, message):
@@ -131,10 +131,7 @@ async def addFooter(str):
     footer = """
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  HOW TO PLAY/DOWNLOAD VIDEO - 
- https://bit.ly/3rX8VH9
- CREATE URL SHOTNER BOT(CONTACT)- @Akmnph       
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
+ https://t.me/earn4click_tutorial
     return str + footer
 
 bot.run()
