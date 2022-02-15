@@ -130,9 +130,8 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-        
+   👉How to Download👈
+https://t.me/earn4click_tutorial     
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
-    return str + footer
 
 bot.run()
