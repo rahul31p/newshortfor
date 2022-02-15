@@ -1,12 +1,12 @@
 {
-    "name": "pdiskshortforyou_Bot",
+    "name": "earn4clicks_Bot",
     "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
     "keywords": [
         "telegram",
         "gplink"
     ],
-    "website": "https://github.com/Trydisk/newshortfor",
-    "repository": "https://github.com/Trydisk/newshortfor",
+    "website": "https://github.com/Sagar31p/newshortfor",
+    "repository": "https://github.com/Sagar31p/newshortfor",
     "env": {
         "BOT_TOKEN": {
             "description": "Your telegram bot token",
