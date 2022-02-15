@@ -2,12 +2,12 @@
 
 Make short link by using [earn4clicks](https://earn4clicks.in) API key
 ### Join Our Channel on telegram 
-[@akmnph](t.me/hornyworld22) for bot
+[@earn4clicks_in](t.me/backup_zone) for bot
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Trydisk/newshortfor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sagar31p/newshortfor)
 
 ##### Required Variables
 
