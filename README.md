@@ -1,6 +1,6 @@
 # newshortfor-bot
 
-Make short link by using [earn4clicks](https://earn4clicks.in) API key
+Make short link by using [earn4clicks](https://pvidly.in) API key
 ### Join Our Channel on telegram 
 [@earn4clicks_in](t.me/backup_zone) for bot
 ### Installation
@@ -15,6 +15,6 @@ Make short link by using [earn4clicks](https://earn4clicks.in) API key
 
 * `API_ID`: Get this value from [telgram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telgram.org](https://my.telegram.org/apps)
-* `API_KEY`: Create [earn4clicks](https://earn4clicks.in) account then get this value from [earn4clicks API](https://earn4clicks.in/member/tools/api)
+* `API_KEY`: Create [pvidly](https://pvidly.in) account then get this value from [pvidly API](https://pvidly.in/member/tools/api)
 * `CHANNEL`: Your Backup channel link
-* `HOWTO`: Your "How to Download from Earn4clicks" video link
+* `HOWTO`: Your "How to Download from pvidly" video link
