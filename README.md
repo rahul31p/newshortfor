@@ -7,7 +7,7 @@ Make short link by using [earn4clicks](https://pvidly.in) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sagar31p/newshortfor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rahul31p/newshortfor)
 
 ##### Required Variables
 
